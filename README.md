@@ -8,3 +8,5 @@ xa8ex release-v0.01-alpha vs. release-v0.02-alpha-mustbesimsimed vs. release-v.0
 includes: software, os, pipelines, batchjobs, data, ml, analytics, etc...
 
 current version: check releases
+
+should work as previous repo, online, live, all changes matter, etc.
