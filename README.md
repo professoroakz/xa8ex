@@ -1,4 +1,11 @@
 # xa8ex
+
+potentially (enterprise kraftwerk(?) organization ops) (?) how about dat
+
+all codebases since beginning generated and done, and xa8ex self-hosted enterprise (featuring all inclusive configs and setups)
+
++add docker support
+
 xa8ex eternally through aeons 
 
 only for xaoex
